@@ -7,7 +7,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 - Leaflet Map https://melissa2021hmr.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1mZ9r-PNF_4p7A4yVcjN8DJ-2vJPV-QlGNXtFrnZ0Lto/edit#gid=0
 
-## Create your own
+## create
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 #### Geocode your address data with Google Sheets add-on
